@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ManuTirado.
+- 💼 I'mm currently working full time as an iOS developer.
+- 👀 I’m interested in the new paradigm that swiftui offers.
+- 🌱 I'm currently developing apps in SwiftUI in my free time to improve my skills and see its capabilities.
+- 📫 manutg16@gmail.com
