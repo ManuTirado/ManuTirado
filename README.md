@@ -1,4 +1,5 @@
-# Hi, I’m [ManuTirado](https://github.com/ManuTirado) 👋 [![Static Badge](https://img.shields.io/badge/Manuel%20Tirado-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuel-tirado-garcía)
+[![Static Badge](https://img.shields.io/badge/Manuel%20Tirado-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuel-tirado-garcía)
+# Hi, I’m [ManuTirado](https://github.com/ManuTirado) 👋
 
 
 
